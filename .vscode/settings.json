@@ -1,0 +1,5 @@
+{
+    "editor.maxTokenizationLineLength": 100000,
+    "appService.defaultWebAppToDeploy": "/subscriptions/44c71424-82cf-469a-b911-1126927c0957/resourceGroups/ISAAC/providers/Microsoft.Web/sites/FHC-web",
+    "appService.deploySubpath": "."
+}
